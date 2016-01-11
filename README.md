@@ -1,1 +1,6 @@
-# Pelli-Eye-Chart-Font
+# Pelli-Font
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />"Pelli font" by Denis G. Pelli is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+This font is intended for eye charts. It contains only 11 useful characters: 0123456789$ plus space. The characters all have the same width and height, a 5:1 aspect ratio, and a stroke width that is half the character width. The space width is half a character width. Adjoining characters touch unless you separate them by a space.
+
+There is also a #, but its strokes are too thin. All the letters a-z and A-Z have been assigned the same dash glyph. This satisfied Microsoft Word, which was previously unable to work with this font. Now the font seems to work perfectly except for the very minor anomaly that the freeware MATLAB extension Psychtoolbox command bounds=Screen('TextBounds'...) returns a bounding box that is twice as wide as it should be.
