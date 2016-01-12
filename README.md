@@ -14,10 +14,10 @@ The Pelli and Sloan fonts are made available here for research purposes and may 
 
 REFERENCES
 
-Elliott DB, Whitaker D, Bonette L. (1990). Differences in the legibility of letters at contrast threshold using the Pelli-Robson chart. Ophthalmic Physiol Opt. 1990 Oct;10(4):323-6. 
+ - Elliott DB, Whitaker D, Bonette L. (1990). Differences in the legibility of letters at contrast threshold using the Pelli-Robson chart. Ophthalmic Physiol Opt. 1990 Oct;10(4):323-6. 
 
-NAS-NRC (1980). Recommended standard procedures for the clinical measurement and specification of visual acuity. Report of working group 39. Committee on vision. Assembly of Behavioral and Social Sciences, National Research Council, National Academy of Sciences, Washington, D.C. Adv Ophthalmol. 41:103-48. 
+ - NAS-NRC (1980). Recommended standard procedures for the clinical measurement and specification of visual acuity. Report of working group 39. Committee on vision. Assembly of Behavioral and Social Sciences, National Research Council, National Academy of Sciences, Washington, D.C. Adv Ophthalmol. 41:103-48. 
 
-Pelli, D. G., Robson, J. G., & Wilkins, A. J. (1988) The design of a new letter chart for measuring contrast sensitivity. Clinical Vision Sciences 2, 187-199.  
+ - Pelli, D. G., Robson, J. G., & Wilkins, A. J. (1988) The design of a new letter chart for measuring contrast sensitivity. Clinical Vision Sciences 2, 187-199.  
 
-Sloan L. (1959). New test charts for the measurement of visual acuity at far and near distances. Am. J. Ophthal. 48, 807-813.
+ - Sloan L. (1959). New test charts for the measurement of visual acuity at far and near distances. Am. J. Ophthal. 48, 807-813.
