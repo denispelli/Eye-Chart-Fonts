@@ -1,0 +1,9 @@
+/* Webfont: Pelli-Regular */@font-face {
+    font-family: 'Pelli';
+    src: url('Pelli.woff2') format('woff2'), /* Modern Browsers */
+         url('Pelli.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
