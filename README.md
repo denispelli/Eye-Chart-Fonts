@@ -6,7 +6,7 @@ https://github.com/denispelli/Eye-Chart-Fonts.git
 
 The Pelli and Sloan fonts are intended for vision testing. 
 
-TO DOWNLOAD: Use the folders Pelli and Sloan, which were created by FontLab 7 when I asked it to export for desktop or web use. In fact, the OTF files are tiny, less than 10 KB, so you could use that for both desktop and webfont use. 
+TO DOWNLOAD: Use the _folders_ Pelli and Sloan, which were created by FontLab 7 when I asked it to export for desktop or web use. In fact, the OTF files are tiny, less than 10 KB, so you could use that for both desktop and webfont use. 
 
 The Pelli font contains only 11 useful characters: 0123456789$ plus space. The characters all have the same width and height, a 5:1 aspect ratio, and a stroke width that is half the character width. The space and option-space are half the width of the other characters. The font has no descenders and the height is equal to the nominal point size requested. Adjoining characters touch. There is also a #, but its strokes are too thin. All the letters a-z and A-Z have been assigned the same dash glyph. This satisfied Microsoft Word, which was previously unable to work with this font. The font now works perfectly except for the very minor anomaly that the freeware MATLAB extension Psychtoolbox command bounds=Screen('TextBounds'...) returns a bounding box that is twice as wide as it should be. The Pelli font contains only the characters 0123456789$ plus space and option space. The Pelli font was mostly designed by Denis Pelli. Hörmet Yiltiz designed the $ sign. Hannes Famira tweaked some of the character shapes and converted the PNG files into a standard font file.
 
